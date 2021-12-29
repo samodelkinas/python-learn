@@ -1,0 +1,4 @@
+[INF] - 2021-12-29 13:54:30.806755 - <function get_pokemons at 0x7f324f4385e0> took 0:00:38.371526
+[INF] - 2021-12-29 13:57:00.257047 - <function get_pokemons at 0x7fee0f2ad5e0> took 0:00:14.546078
+[INF] - 2021-12-29 13:57:42.143845 - <function get_pokemons at 0x7f94303ae5e0> took 0:00:13.528102
+[INF] - 2021-12-29 14:01:10.352356 - <function get_pokemons at 0x7fd96352e5e0> took 0:00:13.690727
